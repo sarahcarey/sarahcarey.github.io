@@ -6,17 +6,17 @@ search: true
 url: sarahcarey.github.io
 
 # Jekyll configuration
-remote_theme: "jekyll-theme-slate"
-markdown:    kramdown
-highlighter: rouge
+#remote_theme: "jekyll-theme-slate"
+#markdown:    kramdown
+#highlighter: rouge
 
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+#kramdown:
+#  input: GFM
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..2
+#  enable_coderay: false
 
 # Site owner
 owner:
