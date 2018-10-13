@@ -7,16 +7,8 @@ url: sarahcarey.github.io
 
 # Jekyll configuration
 remote_theme: "mmistakes/jekyll-theme-slate"
-permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-plugins:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
 
 kramdown:
   input: GFM
