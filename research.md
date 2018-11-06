@@ -2,20 +2,15 @@
 
 ## The evolution of sex chromosomes in bryophytes
 
-![](/Images/sexchroms.jpg){: .center-image, height="300px", width="150px"}
+![](/Images/sexchroms.jpg){: .center-image, height="300px", width="150px"}<br/><br/>
 
 
-\newline
-\newline
 ## Sex-biased gene expression in _Ceratodon purpureus_
-![](/Images/DE.jpg){: .center-image, height="300px", width="150px"}
+![](/Images/DE.jpg){: .center-image, height="300px", width="150px"}<br/><br/>
 
 
 
 
-
-\newline
-\newline
 ## Genetic and structural variation in _Ceratodon purpureus_
 
 
