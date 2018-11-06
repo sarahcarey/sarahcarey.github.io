@@ -11,8 +11,11 @@ Sarah Carey is a PhD Candidate in [Stuart McDaniel's](https://mcdaniellab.biolog
 
 
 **Email:** sarah.carey@ufl.edu
+
 **Twitter:** @sarahbcarey
-**CV:**![SarahCV](/Carey_Sarah_CV_nov2018.pdf)
+
+**CV:** ![SarahCV](/Carey_Sarah_CV_nov2018.pdf)
+
 **Google Scholar:**[publications](https://scholar.google.com/citations?user=yIXDh60AAAAJ&hl=en)
 
 
