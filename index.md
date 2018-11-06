@@ -14,7 +14,7 @@ Sarah Carey is a PhD Candidate in [Stuart McDaniel's](https://mcdaniellab.biolog
 
 **Twitter:** @sarahbcarey
 
-**CV:** ![Updated November 2018]({{ sarahcarey.github.io }}/Carey_Sarah_CV_nov2018.pdf)
+**CV:** ![Updated November 2018]({{ https://github.com/sarahcarey/sarahcarey.github.io }}/Carey_Sarah_CV_nov2018.pdf)
 
 **Google Scholar:** [publications](https://scholar.google.com/citations?user=yIXDh60AAAAJ&hl=en)
 
