@@ -7,7 +7,9 @@ layout: default
 ![Sarah](/Images/sarahcarey.jpg)
 
 
-Sarah Carey is a PhD Candidate in [Stuart McDaniel's](https://mcdaniellab.biology.ufl.edu/) lab at the University of Florida. Her dissertation research is focused on comparative genomics, transcriptomics, and the evolution of sex chromosomes in [bryophytes](https://en.wikipedia.org/wiki/Bryophyte). See more about Sarah's research [here](./research.html).<br/>
+Sarah Carey is a PhD Candidate in [Stuart McDaniel's](https://mcdaniellab.biology.ufl.edu/) lab at the University of Florida. Her dissertation research is focused on comparative genomics, transcriptomics, and the evolution of sex chromosomes in [bryophytes](https://en.wikipedia.org/wiki/Bryophyte).<br/>
+
+**See more about Sarah's research [here](./research.html).<br/>**
 
 
 **Email:** sarah.carey@ufl.edu<br/>
