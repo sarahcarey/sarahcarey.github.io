@@ -2,7 +2,7 @@
 
 Sarah’s dissertation work uses transcriptomic and genomic data to address the evolution of sex chromosomes, differences in gene expression, and patterns of molecular evolution and genetic variation in bryophytes. This work largely focuses on the moss _Ceratodon purpureus_, whose genome is being sequenced by the Joint Genome Institute [(see section on Ceratodon purpureus genome project)](https://mcdaniellab.biology.ufl.edu/research/).<br/><br/>
 
-A fundamental question Sarah’s research addresses is **how does 1 genome make 2 different individuals: males and females**. Two such ways are by putting genes on sex chromosomes or by differential use of autosomes.<br/><br/>
+A fundamental question Sarah’s research addresses is **how does 1 genome make 2 different individuals: males and females**. Two such ways are genes found on sex chromosomes or by differential use of autosomes.<br/><br/>
 
 ## Sex chromosomes in bryophytes
 
