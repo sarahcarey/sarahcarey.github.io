@@ -10,12 +10,12 @@ A fundamental question Sarah’s research addresses is **how does 1 genome make 
 
 Mosses are haploid dominant and around 60% of the roughly 12,000 species have separate sexes. The sex chromosomes underlying the separate sexes are also haploid and are called UV sex chromosomes, where the U correlates with females and the V with males. The U and V sex chromosomes only meet in the monomorphic, non-sexed, diploid stage (called a sporophyte) after fertilization and segregate into males and females after meiosis. 
 
-_Ceratodon purpureus_ has UV sex chromosomes which make up ~1/3 of the 360 megabase genome. Using data from the _Ceratodon purpureus_ genome project, where we sequenced a male and female isolate of _C. purpureus_, we are working to address the key differences between Ceratodon U & V sex chromosomes. Additionally, we are using a phylotranscriptomic approach to address when sex chromosomes evolved in mosses.<br/><br/> 
+_Ceratodon purpureus_ has UV sex chromosomes which make up ~1/3 of the 360 megabase genome. Using data from the _Ceratodon purpureus_ genome project, where we sequenced a male and female isolate of _C. purpureus_, we are working to address the key differences between Ceratodon U and V sex chromosomes. Additionally, we are using a phylotranscriptomic approach to address when sex chromosomes evolved in mosses.<br/><br/> 
 
-## Sex-biased gene expression
+## Differential gene expression
 ![](/Images/DE.jpg){: .center-image, height="250px", width="250px"}<br/><br/>
 
-Using transcriptomic data from 6 isolates at 2 life-cycle stages (juvenile and mature-stage) of _C. purpureus_ we are working to address differences in gene expression on the autosomes between the sexes.<br/><br/>  
+Using transcriptomic data from 6 isolates at 2 life-cycle stages (juvenile and mature-stage) of _C. purpureus_ we are working to address differences in gene expression between the sexes. Of particular interest is differential use of the autosomes between the sexes.<br/><br/>  
 
 ## Genetic and structural variation
 ![](/Images/structural_var.jpg){: .center-image, height="250px", width="150px"}<br/><br/> 
