@@ -1,4 +1,6 @@
 
+# Outreach
+
 ## "Art of Biology"
 
 In the Fall of 2015 I was the lead organizer of an art installation called "Art of Biology". I and ten other UF Biology and Florida Museum of Natural History graduate students and researchers presented artistic images of our research subjects. This event allowed us to highlight the beauty and significance of our research to the public. At the grand opening, which attracted over 200 people from the Gainesville community, each of us stood by our art and explained the significance of our pieces and of the research it represents. Several local news outlets covered our installation including [The Alligator]( https://www.alligator.org/news/local/hippodrome-features-students-research-projects-as-art/article_99e2a4fe-88f7-11e5-ad7e-6fe2d3424b1c.html), [WUFT/WJUF](https://www.wuft.org/news/2015/11/17/uf-scientists-graduate-students-turn-plant-research-into-art/), and [UF News](http://news.ufl.edu/articles/2015/11/finding-beauty-in-biology.php)
