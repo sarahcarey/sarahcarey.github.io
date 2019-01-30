@@ -1,4 +1,3 @@
-# page under construction!
 
 Sarah’s dissertation work uses transcriptomic and genomic data to address the evolution of sex chromosomes, differences in gene expression, and patterns of molecular evolution and genetic variation in bryophytes. This work largely focuses on the moss _Ceratodon purpureus_, whose genome is being sequenced by the Joint Genome Institute [(see section on Ceratodon purpureus genome project)](https://mcdaniellab.biology.ufl.edu/research/).<br/><br/>
 
