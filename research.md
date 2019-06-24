@@ -27,7 +27,7 @@ Using resequencing data from 23 isolates from _C. purpureus’_ wide geographic 
 <br/>
 ## Flagellate Plant Phylogeny (GoFlag)
 <br/>
-I have also been a part of the [GoFlag project](http://flagellateplants.group.ufl.edu/), the ultimate goal of which is to build a comprehensive phylogeny of all flagellate plants (that is, plants with flagellated sperm), which include mosses, liverworts, hornworts, lycophytes, ferns, and gymnoperms). As a graduate research assisant on the project I have helped to organize sample submissions, optimize DNA extractions, train undergraduates on molecular lab work, and analyse Capture-seq data.
+I have also been a part of the [GoFlag project](http://flagellateplants.group.ufl.edu/), the ultimate goal of which is to build a comprehensive phylogeny of all flagellate plants (that is, plants with flagellated sperm), which include mosses, liverworts, hornworts, lycophytes, ferns, and gymnoperms. As a graduate research assisant on the project I have helped to organize sample submissions, optimize DNA extractions, train undergraduates on molecular lab work, and analyze Capture-seq data.
 
 
 
