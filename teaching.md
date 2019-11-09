@@ -14,7 +14,7 @@ In the most recent interation of the lab in Fall 2018, students designed experim
 
 In the directory [moss_lab](https://github.com/sarahcarey/sarahcarey.github.io/tree/master/moss_lab) you'll find the lab manual pages provided to students (moss_growth_manual.pdf), my PowerPoint slides for the growth experiment set-up lab (moss_growth_experiments_2018.pptx), our ImageJ protocol (ImageJ_protocol_sbc.pdf), My PowerPoint slides for the data analysis in R lab (intro_bot_moss_growth_R_2018.pptx), the R script students used to to analyse their data (growth_exper_intro_bot_2018.R), and an example dataset for R (Ceratodon_intro_bot_canned_data.csv).
 <br/><br/>
-[Here's an awesome write-up about the lab in 2017](https://publications.clas.ufl.edu/ytori-magazine/ytori-spring-2018/lil-mosses/)!
+[Here's an awesome write-up about the lab in 2017](https://news.clas.ufl.edu/lil-mosses/)!
 <br/>
 <br/>
 ## Playdoh Genetics lab
