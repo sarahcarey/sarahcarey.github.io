@@ -1,12 +1,10 @@
 # Research
 <br/>
 ## Sex chromosome evolution across plants
-<br/>
 The evolution of dioecy and sex chromosomes has occured hundreds of independent times across land plants. With my postdoctoral work I am using genomic techniques to characterize sex chromosomes, and their gene content, across many of these evolutions. Here's a recent review we wrote on what has been found so far about [sex chromosomes in land plants using whole-genome sequencing approaches](https://www.mdpi.com/2073-4425/12/3/381). More to come as projects progress! 
 <br/>
 <br/>
 ## Sex chromosomes in bryophytes
-<br/>
 ![](/Images/sexchroms.jpg){: .center-image, height="250px", width="250px"}<br/><br/>
 My dissertation work used transcriptomic and genomic data to address the evolution of sex chromosomes, differences in gene expression, and patterns of molecular evolution and genetic variation in the bryophytes. This work largely focused on the moss _Ceratodon purpureus_ whose genome was sequenced by the Joint Genome Institute [(see section on Ceratodon purpureus genome project)](https://mcdaniellab.biology.ufl.edu/research/).<br/>
 
@@ -22,7 +20,6 @@ If you're interested in using the chromosome-scale V1 _Ceratodon purpureus_ geno
 <br/>
 <br/>
 ## Flagellate Plant Phylogeny (GoFlag)
-<br/>
 I am also a collaborator of the [GoFlag project](http://flagellateplants.group.ufl.edu/), the ultimate goal of which is to build a comprehensive phylogeny of all flagellate plants (that is, plants with flagellated sperm), which include mosses, liverworts, hornworts, lycophytes, ferns, and gymnosperms. As a graduate research assisant on the project I helped to organize sample submissions, optimize DNA extractions, train undergraduates on molecular lab work, and analyze Capture-seq data. Our pilot paper, describing the [GoFlag Probe Set](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11406) was recently published. 
 
 
