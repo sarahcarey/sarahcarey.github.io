@@ -16,7 +16,7 @@ Sarah Carey is a Postdoctoral Associate in [Alex Harkess'](https://www.hudsonalp
 
 **Email:** scarey@hudsonalpha.org<br/>
 **Twitter:** @sarahbcarey<br/>
-**CV:** [Updated July 2021](./CV.html)<br/>
+**CV:** [Updated November 2022](./CV.html)<br/>
 **Google Scholar:** [publications](https://scholar.google.com/citations?user=yIXDh60AAAAJ&hl=en)<br/>
 **Github:** [repositories](https://github.com/sarahcarey)
 
