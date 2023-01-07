@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Sarah](/Images/sarahcarey.jpeg)
+![Sarah](/Images/Carey_in_Lab.jpeg)
 
 
 Sarah Carey is a Postdoctoral Associate in [Alex Harkess'](https://www.hudsonalpha.org/faculty/alex-harkess/) lab at Auburn University and HudsonAlpha Institute for Biotechnology. Sarah's research focuses on the evolution of sex chromosomes across plants.<br/>
@@ -16,7 +16,7 @@ Sarah Carey is a Postdoctoral Associate in [Alex Harkess'](https://www.hudsonalp
 
 **Email:** scarey@hudsonalpha.org<br/>
 **Twitter:** @sarahbcarey<br/>
-**CV:** [Updated November 2022](./CV.html)<br/>
+**CV:** [Updated January 2023](./CV.html)<br/>
 **Google Scholar:** [publications](https://scholar.google.com/citations?user=yIXDh60AAAAJ&hl=en)<br/>
 **Github:** [repositories](https://github.com/sarahcarey)
 
